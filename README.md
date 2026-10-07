@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Souza+%F0%9F%91%8B;Desenvolvedor+Frontend;Estudante+de+Eng.+de+Software+%40+FIAP" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Daniel+Souza+%F0%9F%91%8B;Desenvolvedor+Frontend;Engenharia+de+Software+%40+FIAP" />
 <p>
 Desenvolvedor <b>Frontend</b> com experiência em empresa multinacional de tecnologia e estudante de
 <b>Engenharia de Software na FIAP</b>, no Rio de Janeiro. Gosto de transformar requisitos em interfaces
