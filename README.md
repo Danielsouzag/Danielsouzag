@@ -8,7 +8,7 @@ Desenvolvedor <b>Frontend</b> com experiência em empresa multinacional de tecno
 rápidas, responsivas e fáceis de manter, integrando com APIs e serviços em cloud.
 </p>
 
-<img src="[https://media1.tenor.com/m/PCXNsM2OVagAAAAC/spider-man-spider-man-90s-psa.gif](https://media1.tenor.com/m/yoWKDGk7RTMAAAAC/spider-man.gif)" width="400" />
+<img src="https://media1.tenor.com/m/yoWKDGk7RTMAAAAC/spider-man.gif" width="400" />
 
 ## 🔗 Conecte-se comigo
 
