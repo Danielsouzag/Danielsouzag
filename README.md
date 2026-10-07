@@ -8,6 +8,8 @@ Desenvolvedor <b>Frontend</b> com experiência em empresa multinacional de tecno
 rápidas, responsivas e fáceis de manter, integrando com APIs e serviços em cloud.
 </p>
 
+<img src="https://media1.tenor.com/m/PCXNsM2OVagAAAAC/spider-man-spider-man-90s-psa.gif" width="400" />
+
 ## 🔗 Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/SEU-LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
